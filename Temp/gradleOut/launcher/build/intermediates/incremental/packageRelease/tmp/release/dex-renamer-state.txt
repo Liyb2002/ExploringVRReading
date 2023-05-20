@@ -1,0 +1,4 @@
+#Sun May 14 20:00:56 EDT 2023
+base.0=/Users/yuanboli/Desktop/test2/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
